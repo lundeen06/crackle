@@ -1,4 +1,4 @@
-# Crackle (dx^5/dt)
+# Crackle (dx^5/dt^5)
 ## Level 2 Certification High-Power Rocket
 
 ![Crackle Rocket](crackle-v0.png)
@@ -66,5 +66,7 @@ Crackle is a high-power rocket designed for Level 2 certification, featuring adv
 
 ## Contact
 Builder: Lundeen Cahilly
+
 NAR/TRA Number: 121847
+
 Email: lcahilly@stanford.edu
