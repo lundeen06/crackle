@@ -9,7 +9,7 @@ Crackle is a high-power rocket designed for Level 2 certification, featuring adv
 
 | Parameter | Value |
 |-----------|-------|
-| Motor | Cesaroni J460T |
+| Motor | AeroTech J460T |
 | Max Velocity | Mach 1.09 |
 | Predicted Apogee | 1964m |
 | Length | 1229mm |
