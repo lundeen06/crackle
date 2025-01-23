@@ -1,7 +1,7 @@
-# Crackle (dx^5/dt^5)
-## Level 2 Certification High-Power Rocket
+# crackle
+## L2 High-Power Rocket Certification (L motors)
 
-![Crackle Rocket](crackle-v0.png)
+![Crackle Rocket](images/crackle-v1.png)
 
 Crackle is a high-power rocket designed for Level 2 certification, featuring advanced avionics and dual-deployment recovery system.
 
@@ -10,15 +10,15 @@ Crackle is a high-power rocket designed for Level 2 certification, featuring adv
 | Parameter | Value |
 |-----------|-------|
 | Motor | AeroTech J460T |
-| Max Velocity | Mach 1.09 |
-| Predicted Apogee | 1964m |
-| Length | 1229mm |
-| Diameter | 70mm |
-| Launch Weight | 1976g |
+| Max Velocity | Mach 1.24 |
+| Predicted Apogee | 1995m |
+| Length | 1329mm |
+| Diameter | 66.8mm |
+| Launch Weight | 1674g |
 | Rail Size | [rail size] |
-| CG Location | 893mm |
-| CP Location | 911mm |
-| Stability | 1.41cal |
+| CG Location | 980mm |
+| CP Location | 1063mm |
+| Stability | 1.25cal |
 
 ## Key Features
 
@@ -34,7 +34,7 @@ Crackle is a high-power rocket designed for Level 2 certification, featuring adv
 - Drogue Deployment: apogee (1964m), electronically triggered (bp charge failsafe)
 - Main Deployment: 300m, electronically triggered via barometer
 - Drogue Chute: [size]" diameter
-- Main Chute: [size]" diameter, 3000mm shock cord 
+- Main Chute: [size]" diameter, 4000mm shock cord 
 - Recovery Hardware: [hardware specs]
 
 ## Build Notes
@@ -64,8 +64,11 @@ Crackle is a high-power rocket designed for Level 2 certification, featuring adv
 |------|-----------|---------|-------------------|--------|
 | [date] | [location] | [conditions] | [performance] | [notes] |
 
+## Resources
+Rocket design wrap (from Lawton): https://alwanwraps.com/
+
 ## Contact
-Builder: Lundeen Cahilly
+Designer: Lundeen Cahilly
 
 NAR/TRA Number: 121847
 
